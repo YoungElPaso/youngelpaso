@@ -1,16 +1,13 @@
-## Hi there 👋
+## Jesse Sutherland 
 
-<!--
-**YoungElPaso/youngelpaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a very experienced, indie web developer living in Montreal. Worked with some great people at some very creative and interesting organizations over the years mainly at BlueSponge (RIP) and McGill U.
 
-Here are some ideas to get you started:
+Heck, for now I'll go with the template:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on awesome one-off web components (vanilla JS or Lit), web component tools, Chrome/FF extensions, Threlte 3d studies (landscapes, vignettes), my blog and other fun stuff
+- 🌱 I’m currently learning Astro
+- 👯 I’m looking to collaborate on design systems, component-driven design, somehow making the ShadowDom just work ;) 
+- 💬 Ask me about CSS, Design Systems, web components or softball
+- 📫 How to reach me: DM on Bluesky or email
+- 😄 Pronouns: He/Him - take a hike if this bothers you
+- ⚡ Fun fact: I used to host a radio show and live in Montreal, which is always a fun fact as it's always a fun city
